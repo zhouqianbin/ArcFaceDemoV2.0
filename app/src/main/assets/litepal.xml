@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <!--数据库名称-->
+    <dbname value="face_test" />
+
+    <!-- 数据库版本 -->
+    <version value="1" />
+
+    <!-- 实体映射文件 -->
+    <list>
+        <mapping class="com.zhouqianbin.demo.entity.FaceInfoEntity" />
+    </list>
+
+</litepal>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path name="camera_image_path" path="woodman/" />
+        <!--
+        <files-path name="name" path="path" /> 对应getFilesDir()。
+        <cache-path name="name" path="path" /> 对应getCacheDir()。
+        <external-path name="name" path="path" /> 对应Environment.getExternalStorageDirectory()。
+        <external-files-path name="name" path="path" /> 对应getExternalFilesDir()。
+        <external-cache-path name="name" path="path" /> 对应getExternalCacheDir()。
+        -->
+    </paths>
+</resources>
